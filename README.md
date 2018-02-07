@@ -1,4 +1,4 @@
-# Slides about maps.
+# Slides about maps
 These are slides used in teaching students at [GMIT](http://www.gmit.ie).
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
